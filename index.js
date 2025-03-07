@@ -15,3 +15,5 @@ console.log(car.color)
 
 let carModel = car.model
 console.log(carModel)
+
+
