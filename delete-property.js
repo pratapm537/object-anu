@@ -5,6 +5,3 @@ car = {
     model : 2018
 }
 
-// color : black
-car.color = "black"
-console.log(car.color)
